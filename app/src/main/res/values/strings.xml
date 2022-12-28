@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Khabeer</string>
+    <string name="pound">ج</string>
+    <string name="basic_sallary">مرتب اساسى</string>
+    <string name="work_nature">طبيعة العمل</string>
+    <string name="other_deductions">استقطاعات اخرى</string>
+
+</resources>
